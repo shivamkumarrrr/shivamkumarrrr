@@ -1,5 +1,5 @@
 
-const config = {
+export const config = {
   github: {
     username: "shivamkumarrrr",
     sortBy: "updated",
