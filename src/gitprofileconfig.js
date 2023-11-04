@@ -1,4 +1,3 @@
-
 export const config = {
   github: {
     username: "shivamkumarrrr",
@@ -17,7 +16,18 @@ export const config = {
   resume: {
     fileUrl: "",
   },
-  skills: ["JavaScript", "React.js"],
+  skills: [
+    "Machine Learning",
+    "Data Science",
+    "Web Development",
+    "Deep Learning",
+    "Generative AI",
+    "Python",
+    "Pytorch",
+    "Numpy",
+    "Pandas",
+    "Matpolotlib",
+  ],
   education: [
     {
       institution: "Universität des Saarlandes",
