@@ -1,3 +1,4 @@
+//@ts-ignore
 import GitProfile from "@arifszn/gitprofile";
 import "@arifszn/gitprofile/dist/style.css";
 
