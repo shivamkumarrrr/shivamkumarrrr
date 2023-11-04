@@ -66,5 +66,5 @@ export const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Copyright © 2023 John Doe`,
+  footer: `Copyright © 2023 Shivam Kumar`,
 };
