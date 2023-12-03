@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science, Python , Artificial Intelligence & Generative AI**
 
-- 📫 How to reach me **shivamkumar17june@gmail.com**
+- 📫 How to reach me **shiivamkumarr2517@gmail.com**
 
 - ⚡ Fun fact **I think I Am Funny!**
 
