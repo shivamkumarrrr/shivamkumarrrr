@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">I Am A Machine Learning Student At Universität des Saarlandeds.</h3>
+<h3 align="center">I Am A Machine Learning Student At Universität des Saarlandes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumarrrr&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumarrrr" /> </p>
 
